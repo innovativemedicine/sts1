@@ -1,0 +1,26 @@
+/AssayDAO.java/1.1/Tue Aug 16 19:41:22 2005//
+/CGGResultDAO.java/1.1/Tue Aug 16 19:41:22 2005//
+/CGGStudyGroupDAO.java/1.1/Tue Aug 16 19:41:22 2005//
+/ContainerDAO.java/1.1/Tue Aug 16 19:41:22 2005//
+/ContainerTypeDAO.java/1.1/Tue Aug 16 19:41:22 2005//
+/InstrumentDAO.java/1.1/Tue Aug 16 19:41:22 2005//
+/InvestigatorDAO.java/1.1/Tue Aug 16 19:41:22 2005//
+/LocationDAO.java/1.1/Tue Aug 16 19:41:22 2005//
+/OtherDAO.java/1.1/Tue Aug 16 19:41:22 2005//
+/PatientDAO.java/1.1/Tue Aug 16 19:41:22 2005//
+/ProjectDAO.java/1.1/Tue Aug 16 19:41:22 2005//
+/ReagentDAO.java/1.1/Tue Aug 16 19:41:22 2005//
+/ResultDAO.java/1.1/Tue Aug 16 19:41:22 2005//
+/RoleDAO.java/0/dummy timestamp/-kk/
+/RunDAO.java/1.1/Tue Aug 16 19:41:22 2005//
+/SampleDAO.java/1.1/Tue Aug 16 19:41:22 2005//
+/SamplePrefixDAO.java/1.1/Tue Aug 16 19:41:22 2005//
+/SampleTypeDAO.java/1.1/Tue Aug 16 19:41:22 2005//
+/SamplesInContainerDAO.java/1.1/Tue Aug 16 19:41:22 2005//
+/TestDAO.java/1.1/Tue Aug 16 19:41:22 2005//
+/UpdateResultToCGGDAO.java/1.1/Tue Aug 16 19:41:23 2005//
+/UserDAO.java/1.1/Tue Aug 16 19:41:23 2005//
+/UserRoleDAO.java/-1.1/Tue Aug 16 19:41:23 2005//
+/UserRolesDAO.java/0/dummy timestamp/-kk/
+D/hibernate////
+D/jdbc////

@@ -1,0 +1,5 @@
+intId	concentration
+HCM900	345
+HCM901	234
+HCM902	456
+HCM903	678

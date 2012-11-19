@@ -1,0 +1,232 @@
+DEBUG - 12:07:46 | Found action method [public org.springframework.web.servlet.ModelAndView agtc.sampletracking.web.controller.StsController.projectDetailsHandler(javax.servlet.http.HttpServletRequest,javax.servlet.http.HttpServletResponse) throws javax.servlet.ServletException]
+DEBUG - 12:07:46 | Found action method [public org.springframework.web.servlet.ModelAndView agtc.sampletracking.web.controller.StsController.resultDetailsHandler(javax.servlet.http.HttpServletRequest,javax.servlet.http.HttpServletResponse) throws javax.servlet.ServletException]
+DEBUG - 12:07:46 | Found action method [public org.springframework.web.servlet.ModelAndView agtc.sampletracking.web.controller.StsController.assayDetailsHandler(javax.servlet.http.HttpServletRequest,javax.servlet.http.HttpServletResponse) throws javax.servlet.ServletException]
+DEBUG - 12:07:46 | Found action method [public org.springframework.web.servlet.ModelAndView agtc.sampletracking.web.controller.StsController.reagentDetailsHandler(javax.servlet.http.HttpServletRequest,javax.servlet.http.HttpServletResponse) throws javax.servlet.ServletException]
+DEBUG - 12:07:46 | Found action method [public org.springframework.web.servlet.ModelAndView agtc.sampletracking.web.controller.StsController.runDetailsHandler(javax.servlet.http.HttpServletRequest,javax.servlet.http.HttpServletResponse) throws javax.servlet.ServletException]
+DEBUG - 12:07:46 | Found action method [public org.springframework.web.servlet.ModelAndView agtc.sampletracking.web.controller.StsController.resultListHandler(javax.servlet.http.HttpServletRequest,javax.servlet.http.HttpServletResponse) throws javax.servlet.ServletException]
+DEBUG - 12:07:46 | Found action method [public org.springframework.web.servlet.ModelAndView agtc.sampletracking.web.controller.StsController.testDetailsHandler(javax.servlet.http.HttpServletRequest,javax.servlet.http.HttpServletResponse) throws javax.servlet.ServletException]
+DEBUG - 12:07:46 | Found action method [public org.springframework.web.servlet.ModelAndView agtc.sampletracking.web.controller.StsController.sampleDetailsHandler(javax.servlet.http.HttpServletRequest,javax.servlet.http.HttpServletResponse) throws javax.servlet.ServletException]
+DEBUG - 12:07:46 | Found action method [public org.springframework.web.servlet.ModelAndView agtc.sampletracking.web.controller.StsController.patientDetailsHandler(javax.servlet.http.HttpServletRequest,javax.servlet.http.HttpServletResponse) throws javax.servlet.ServletException]
+DEBUG - 12:07:46 | Found action method [public org.springframework.web.servlet.ModelAndView agtc.sampletracking.web.controller.StsController.sampleIdListHandler(javax.servlet.http.HttpServletRequest,javax.servlet.http.HttpServletResponse) throws javax.servlet.ServletException]
+DEBUG - 12:07:46 | Found action method [public org.springframework.web.servlet.ModelAndView agtc.sampletracking.web.controller.StsController.sampleIdMapHandler(javax.servlet.http.HttpServletRequest,javax.servlet.http.HttpServletResponse) throws javax.servlet.ServletException]
+DEBUG - 12:07:46 | Found action method [public org.springframework.web.servlet.ModelAndView agtc.sampletracking.web.controller.StsController.containerDetailsHandler(javax.servlet.http.HttpServletRequest,javax.servlet.http.HttpServletResponse) throws javax.servlet.ServletException]
+DEBUG - 12:07:46 | Found action method [public org.springframework.web.servlet.ModelAndView agtc.sampletracking.web.controller.StsController.successLoginHandler(javax.servlet.http.HttpServletRequest,javax.servlet.http.HttpServletResponse) throws javax.servlet.ServletException]
+DEBUG - 12:07:46 | Found action method [public org.springframework.web.servlet.ModelAndView agtc.sampletracking.web.controller.StsController.deleteTestHandler(javax.servlet.http.HttpServletRequest,javax.servlet.http.HttpServletResponse) throws javax.servlet.ServletException]
+DEBUG - 12:07:46 | Found action method [public org.springframework.web.servlet.ModelAndView agtc.sampletracking.web.controller.StsController.deleteRunHandler(javax.servlet.http.HttpServletRequest,javax.servlet.http.HttpServletResponse) throws javax.servlet.ServletException]
+DEBUG - 12:07:46 | Found action method [public org.springframework.web.servlet.ModelAndView agtc.sampletracking.web.controller.StsController.deleteAssayHandler(javax.servlet.http.HttpServletRequest,javax.servlet.http.HttpServletResponse) throws javax.servlet.ServletException]
+DEBUG - 12:07:46 | Found action method [public org.springframework.web.servlet.ModelAndView agtc.sampletracking.web.controller.StsController.deleteResultHandler(javax.servlet.http.HttpServletRequest,javax.servlet.http.HttpServletResponse) throws javax.servlet.ServletException]
+DEBUG - 12:07:46 | Found action method [public org.springframework.web.servlet.ModelAndView agtc.sampletracking.web.controller.StsController.deleteReagentHandler(javax.servlet.http.HttpServletRequest,javax.servlet.http.HttpServletResponse) throws javax.servlet.ServletException]
+DEBUG - 12:07:46 | Found action method [public org.springframework.web.servlet.ModelAndView agtc.sampletracking.web.controller.StsController.deleteSampleHandler(javax.servlet.http.HttpServletRequest,javax.servlet.http.HttpServletResponse) throws javax.servlet.ServletException]
+DEBUG - 12:07:46 | Found action method [public org.springframework.web.servlet.ModelAndView agtc.sampletracking.web.controller.StsController.deleteAllSamplesInContainerHandler(javax.servlet.http.HttpServletRequest,javax.servlet.http.HttpServletResponse) throws javax.servlet.ServletException]
+DEBUG - 12:07:46 | Found action method [public org.springframework.web.servlet.ModelAndView agtc.sampletracking.web.controller.StsController.deleteProjectHandler(javax.servlet.http.HttpServletRequest,javax.servlet.http.HttpServletResponse) throws javax.servlet.ServletException]
+DEBUG - 12:07:46 | Found action method [public org.springframework.web.servlet.ModelAndView agtc.sampletracking.web.controller.StsController.deleteContainerHandler(javax.servlet.http.HttpServletRequest,javax.servlet.http.HttpServletResponse) throws javax.servlet.ServletException]
+DEBUG - 12:07:46 | Found action method [public org.springframework.web.servlet.ModelAndView agtc.sampletracking.web.controller.StsController.emptyContainerHandler(javax.servlet.http.HttpServletRequest,javax.servlet.http.HttpServletResponse) throws java.lang.Exception]
+DEBUG - 12:07:46 | Found action method [public org.springframework.web.servlet.ModelAndView agtc.sampletracking.web.controller.StsController.shuffleSamplesInContainerHandler(javax.servlet.http.HttpServletRequest,javax.servlet.http.HttpServletResponse) throws java.lang.Exception]
+DEBUG - 12:07:46 | Found action method [public final org.springframework.web.servlet.ModelAndView org.springframework.web.servlet.mvc.AbstractController.handleRequest(javax.servlet.http.HttpServletRequest,javax.servlet.http.HttpServletResponse) throws java.lang.Exception]
+DEBUG - 12:08:09 | Displaying new form
+DEBUG - 12:08:09 | Creating new command of class [agtc.sampletracking.web.command.LoginFormCommand]
+DEBUG - 12:08:14 | Displaying new form
+DEBUG - 12:08:14 | Setting form session attribute [agtc.sampletracking.web.controller.ContainersSearchController.FORM.command] to: null null null
+DEBUG - 12:08:38 | Displaying new form
+DEBUG - 12:08:38 | Setting form session attribute [agtc.sampletracking.web.controller.ContainersSearchController.FORM.command] to: null null null
+DEBUG - 12:08:51 | Trying to find handler for exception class [org.springframework.orm.hibernate3.HibernateSystemException]
+DEBUG - 12:08:51 | Trying to find handler for exception superclass [org.springframework.orm.hibernate3.HibernateSystemException]
+DEBUG - 12:08:51 | Trying to find handler for exception superclass [org.springframework.dao.UncategorizedDataAccessException]
+DEBUG - 12:08:51 | Trying to find handler for exception superclass [org.springframework.dao.DataAccessException]
+DEBUG - 12:08:51 | Trying to find handler for exception superclass [org.springframework.core.NestedRuntimeException]
+DEBUG - 12:08:51 | Trying to find handler for exception superclass [java.lang.RuntimeException]
+DEBUG - 12:08:51 | Trying to find handler for exception superclass [java.lang.Exception]
+DEBUG - 12:16:02 | Displaying new form
+DEBUG - 12:16:02 | Creating new command of class [agtc.sampletracking.web.command.LoginFormCommand]
+DEBUG - 12:16:06 | Displaying new form
+DEBUG - 12:16:06 | Setting form session attribute [agtc.sampletracking.web.controller.SearchPatientController.FORM.command] to: java.lang.Object@15724a0
+DEBUG - 12:17:00 | Displaying new form
+DEBUG - 12:17:00 | Setting form session attribute [agtc.sampletracking.web.controller.SearchPatientController.FORM.command] to: java.lang.Object@1eb139e
+DEBUG - 12:17:28 | Removing form session attribute [agtc.sampletracking.web.controller.SearchPatientController.FORM.command]
+DEBUG - 12:17:28 | No errors -> processing submit
+DEBUG - 12:17:29 | Setting form session attribute [agtc.sampletracking.web.controller.SearchPatientController.FORM.command] to: java.lang.Object@1eb139e
+DEBUG - 12:17:33 | Displaying new form
+DEBUG - 12:17:33 | Setting form session attribute [agtc.sampletracking.web.controller.SamplesSearchController.FORM.command] to: null null null
+DEBUG - 12:17:33 | referenceData is called
+DEBUG - 12:17:47 | Removing form session attribute [agtc.sampletracking.web.controller.SamplesSearchController.FORM.command]
+DEBUG - 12:17:47 | No errors -> processing submit
+DEBUG - 12:17:47 | search result  no is 0
+DEBUG - 12:17:47 | Displaying new form
+DEBUG - 12:17:47 | Setting form session attribute [agtc.sampletracking.web.controller.SamplesSearchController.FORM.command] to: null null null
+DEBUG - 12:17:47 | referenceData is called
+DEBUG - 12:18:08 | Removing form session attribute [agtc.sampletracking.web.controller.SamplesSearchController.FORM.command]
+DEBUG - 12:18:08 | No errors -> processing submit
+DEBUG - 12:18:08 | search result  no is 0
+DEBUG - 12:18:08 | Displaying new form
+DEBUG - 12:18:08 | Setting form session attribute [agtc.sampletracking.web.controller.SamplesSearchController.FORM.command] to: null null null
+DEBUG - 12:18:08 | referenceData is called
+DEBUG - 12:18:27 | Removing form session attribute [agtc.sampletracking.web.controller.SamplesSearchController.FORM.command]
+DEBUG - 12:18:27 | No errors -> processing submit
+DEBUG - 12:18:27 | search item is js
+DEBUG - 12:18:27 |  the criteria is CriteriaImpl(agtc.sampletracking.model.Sample:this[][patient.intSampleId ilike %js%])
+DEBUG - 12:18:40 | search result  no is 7856
+DEBUG - 12:22:41 | Displaying new form
+DEBUG - 12:22:41 | Setting form session attribute [agtc.sampletracking.web.controller.SearchPatientController.FORM.command] to: java.lang.Object@a7bdab
+DEBUG - 12:22:48 | Removing form session attribute [agtc.sampletracking.web.controller.SearchPatientController.FORM.command]
+DEBUG - 12:22:48 | No errors -> processing submit
+DEBUG - 12:22:48 | Setting form session attribute [agtc.sampletracking.web.controller.SearchPatientController.FORM.command] to: java.lang.Object@a7bdab
+DEBUG - 12:22:59 | Removing form session attribute [agtc.sampletracking.web.controller.SearchPatientController.FORM.command]
+DEBUG - 12:22:59 | No errors -> processing submit
+DEBUG - 12:23:58 | Displaying new form
+DEBUG - 12:23:58 | Creating new command of class [agtc.sampletracking.web.command.LoginFormCommand]
+DEBUG - 12:24:01 | Displaying new form
+DEBUG - 12:24:01 | Setting form session attribute [agtc.sampletracking.web.controller.ContainersSearchController.FORM.command] to: null null null
+DEBUG - 12:24:13 | Displaying new form
+DEBUG - 12:24:13 | Setting form session attribute [agtc.sampletracking.web.controller.ContainersSearchController.FORM.command] to: null null null
+DEBUG - 12:24:25 | Trying to find handler for exception class [org.springframework.orm.hibernate3.HibernateSystemException]
+DEBUG - 12:24:25 | Trying to find handler for exception superclass [org.springframework.orm.hibernate3.HibernateSystemException]
+DEBUG - 12:24:25 | Trying to find handler for exception superclass [org.springframework.dao.UncategorizedDataAccessException]
+DEBUG - 12:24:25 | Trying to find handler for exception superclass [org.springframework.dao.DataAccessException]
+DEBUG - 12:24:25 | Trying to find handler for exception superclass [org.springframework.core.NestedRuntimeException]
+DEBUG - 12:24:25 | Trying to find handler for exception superclass [java.lang.RuntimeException]
+DEBUG - 12:24:25 | Trying to find handler for exception superclass [java.lang.Exception]
+DEBUG - 12:28:13 | Displaying new form
+DEBUG - 12:28:13 | Setting form session attribute [agtc.sampletracking.web.controller.SearchPatientController.FORM.command] to: java.lang.Object@1195c94
+DEBUG - 12:52:28 | Displaying new form
+DEBUG - 12:52:28 | Creating new command of class [agtc.sampletracking.web.command.LoginFormCommand]
+DEBUG - 12:52:34 | Displaying new form
+DEBUG - 12:52:34 | Setting form session attribute [agtc.sampletracking.web.controller.SamplesSearchController.FORM.command] to: null null null
+DEBUG - 12:52:34 | referenceData is called
+DEBUG - 13:11:19 | Displaying new form
+DEBUG - 13:11:19 | Setting form session attribute [agtc.sampletracking.web.controller.SamplesSearchController.FORM.command] to: null null null
+DEBUG - 13:11:19 | referenceData is called
+DEBUG - 13:35:28 | Displaying new form
+DEBUG - 13:35:28 | Creating new command of class [agtc.sampletracking.web.command.LoginFormCommand]
+DEBUG - 13:35:31 | Displaying new form
+DEBUG - 13:35:31 | Binding to new form
+DEBUG - 13:35:31 | Setting form session attribute [agtc.sampletracking.web.controller.PrintSampleLabelController.FORM.command] to: java.lang.Object@1c923c5
+DEBUG - 13:35:31 | add one number 1
+DEBUG - 13:35:31 | add one number 2
+DEBUG - 13:35:31 | add one number 3
+DEBUG - 13:35:31 | add one number 4
+DEBUG - 13:35:31 | add one number 5
+DEBUG - 13:35:31 | add one number 6
+DEBUG - 13:35:31 | add one number 7
+DEBUG - 13:35:31 | add one number 8
+DEBUG - 13:35:31 | add one number 9
+DEBUG - 13:35:31 | add one number 10
+DEBUG - 13:37:17 | Displaying new form
+DEBUG - 13:37:17 | Binding to new form
+DEBUG - 13:37:17 | Setting form session attribute [agtc.sampletracking.web.controller.PrintSampleLabelController.FORM.command] to: java.lang.Object@8ed221
+DEBUG - 13:37:17 | add one number 1
+DEBUG - 13:37:17 | add one number 2
+DEBUG - 13:37:17 | add one number 3
+DEBUG - 13:37:17 | add one number 4
+DEBUG - 13:37:17 | add one number 5
+DEBUG - 13:37:17 | add one number 6
+DEBUG - 13:37:17 | add one number 7
+DEBUG - 13:37:17 | add one number 8
+DEBUG - 13:37:17 | add one number 9
+DEBUG - 13:37:17 | add one number 10
+DEBUG - 14:30:09 | Found action method [public org.springframework.web.servlet.ModelAndView agtc.sampletracking.web.controller.StsController.projectDetailsHandler(javax.servlet.http.HttpServletRequest,javax.servlet.http.HttpServletResponse) throws javax.servlet.ServletException]
+DEBUG - 14:30:09 | Found action method [public org.springframework.web.servlet.ModelAndView agtc.sampletracking.web.controller.StsController.resultDetailsHandler(javax.servlet.http.HttpServletRequest,javax.servlet.http.HttpServletResponse) throws javax.servlet.ServletException]
+DEBUG - 14:30:09 | Found action method [public org.springframework.web.servlet.ModelAndView agtc.sampletracking.web.controller.StsController.assayDetailsHandler(javax.servlet.http.HttpServletRequest,javax.servlet.http.HttpServletResponse) throws javax.servlet.ServletException]
+DEBUG - 14:30:09 | Found action method [public org.springframework.web.servlet.ModelAndView agtc.sampletracking.web.controller.StsController.reagentDetailsHandler(javax.servlet.http.HttpServletRequest,javax.servlet.http.HttpServletResponse) throws javax.servlet.ServletException]
+DEBUG - 14:30:09 | Found action method [public org.springframework.web.servlet.ModelAndView agtc.sampletracking.web.controller.StsController.runDetailsHandler(javax.servlet.http.HttpServletRequest,javax.servlet.http.HttpServletResponse) throws javax.servlet.ServletException]
+DEBUG - 14:30:09 | Found action method [public org.springframework.web.servlet.ModelAndView agtc.sampletracking.web.controller.StsController.resultListHandler(javax.servlet.http.HttpServletRequest,javax.servlet.http.HttpServletResponse) throws javax.servlet.ServletException]
+DEBUG - 14:30:09 | Found action method [public org.springframework.web.servlet.ModelAndView agtc.sampletracking.web.controller.StsController.testDetailsHandler(javax.servlet.http.HttpServletRequest,javax.servlet.http.HttpServletResponse) throws javax.servlet.ServletException]
+DEBUG - 14:30:09 | Found action method [public org.springframework.web.servlet.ModelAndView agtc.sampletracking.web.controller.StsController.sampleDetailsHandler(javax.servlet.http.HttpServletRequest,javax.servlet.http.HttpServletResponse) throws javax.servlet.ServletException]
+DEBUG - 14:30:09 | Found action method [public org.springframework.web.servlet.ModelAndView agtc.sampletracking.web.controller.StsController.patientDetailsHandler(javax.servlet.http.HttpServletRequest,javax.servlet.http.HttpServletResponse) throws javax.servlet.ServletException]
+DEBUG - 14:30:09 | Found action method [public org.springframework.web.servlet.ModelAndView agtc.sampletracking.web.controller.StsController.sampleIdListHandler(javax.servlet.http.HttpServletRequest,javax.servlet.http.HttpServletResponse) throws javax.servlet.ServletException]
+DEBUG - 14:30:09 | Found action method [public org.springframework.web.servlet.ModelAndView agtc.sampletracking.web.controller.StsController.sampleIdMapHandler(javax.servlet.http.HttpServletRequest,javax.servlet.http.HttpServletResponse) throws javax.servlet.ServletException]
+DEBUG - 14:30:09 | Found action method [public org.springframework.web.servlet.ModelAndView agtc.sampletracking.web.controller.StsController.containerDetailsHandler(javax.servlet.http.HttpServletRequest,javax.servlet.http.HttpServletResponse) throws javax.servlet.ServletException]
+DEBUG - 14:30:09 | Found action method [public org.springframework.web.servlet.ModelAndView agtc.sampletracking.web.controller.StsController.successLoginHandler(javax.servlet.http.HttpServletRequest,javax.servlet.http.HttpServletResponse) throws javax.servlet.ServletException]
+DEBUG - 14:30:09 | Found action method [public org.springframework.web.servlet.ModelAndView agtc.sampletracking.web.controller.StsController.deleteTestHandler(javax.servlet.http.HttpServletRequest,javax.servlet.http.HttpServletResponse) throws javax.servlet.ServletException]
+DEBUG - 14:30:09 | Found action method [public org.springframework.web.servlet.ModelAndView agtc.sampletracking.web.controller.StsController.deleteRunHandler(javax.servlet.http.HttpServletRequest,javax.servlet.http.HttpServletResponse) throws javax.servlet.ServletException]
+DEBUG - 14:30:09 | Found action method [public org.springframework.web.servlet.ModelAndView agtc.sampletracking.web.controller.StsController.deleteAssayHandler(javax.servlet.http.HttpServletRequest,javax.servlet.http.HttpServletResponse) throws javax.servlet.ServletException]
+DEBUG - 14:30:09 | Found action method [public org.springframework.web.servlet.ModelAndView agtc.sampletracking.web.controller.StsController.deleteResultHandler(javax.servlet.http.HttpServletRequest,javax.servlet.http.HttpServletResponse) throws javax.servlet.ServletException]
+DEBUG - 14:30:09 | Found action method [public org.springframework.web.servlet.ModelAndView agtc.sampletracking.web.controller.StsController.deleteReagentHandler(javax.servlet.http.HttpServletRequest,javax.servlet.http.HttpServletResponse) throws javax.servlet.ServletException]
+DEBUG - 14:30:09 | Found action method [public org.springframework.web.servlet.ModelAndView agtc.sampletracking.web.controller.StsController.deleteSampleHandler(javax.servlet.http.HttpServletRequest,javax.servlet.http.HttpServletResponse) throws javax.servlet.ServletException]
+DEBUG - 14:30:09 | Found action method [public org.springframework.web.servlet.ModelAndView agtc.sampletracking.web.controller.StsController.deleteAllSamplesInContainerHandler(javax.servlet.http.HttpServletRequest,javax.servlet.http.HttpServletResponse) throws javax.servlet.ServletException]
+DEBUG - 14:30:09 | Found action method [public org.springframework.web.servlet.ModelAndView agtc.sampletracking.web.controller.StsController.deleteProjectHandler(javax.servlet.http.HttpServletRequest,javax.servlet.http.HttpServletResponse) throws javax.servlet.ServletException]
+DEBUG - 14:30:09 | Found action method [public org.springframework.web.servlet.ModelAndView agtc.sampletracking.web.controller.StsController.deleteContainerHandler(javax.servlet.http.HttpServletRequest,javax.servlet.http.HttpServletResponse) throws javax.servlet.ServletException]
+DEBUG - 14:30:09 | Found action method [public org.springframework.web.servlet.ModelAndView agtc.sampletracking.web.controller.StsController.emptyContainerHandler(javax.servlet.http.HttpServletRequest,javax.servlet.http.HttpServletResponse) throws java.lang.Exception]
+DEBUG - 14:30:09 | Found action method [public org.springframework.web.servlet.ModelAndView agtc.sampletracking.web.controller.StsController.shuffleSamplesInContainerHandler(javax.servlet.http.HttpServletRequest,javax.servlet.http.HttpServletResponse) throws java.lang.Exception]
+DEBUG - 14:30:09 | Found action method [public final org.springframework.web.servlet.ModelAndView org.springframework.web.servlet.mvc.AbstractController.handleRequest(javax.servlet.http.HttpServletRequest,javax.servlet.http.HttpServletResponse) throws java.lang.Exception]
+DEBUG - 14:31:15 | Displaying new form
+DEBUG - 14:31:15 | Creating new command of class [agtc.sampletracking.web.command.LoginFormCommand]
+DEBUG - 14:31:24 | Displaying new form
+DEBUG - 14:31:24 | Setting form session attribute [agtc.sampletracking.web.controller.ContainersSearchController.FORM.command] to: null null null
+DEBUG - 14:32:13 | Trying to find handler for exception class [org.springframework.orm.hibernate3.HibernateSystemException]
+DEBUG - 14:32:13 | Trying to find handler for exception superclass [org.springframework.orm.hibernate3.HibernateSystemException]
+DEBUG - 14:32:13 | Trying to find handler for exception superclass [org.springframework.dao.UncategorizedDataAccessException]
+DEBUG - 14:32:13 | Trying to find handler for exception superclass [org.springframework.dao.DataAccessException]
+DEBUG - 14:32:13 | Trying to find handler for exception superclass [org.springframework.core.NestedRuntimeException]
+DEBUG - 14:32:13 | Trying to find handler for exception superclass [java.lang.RuntimeException]
+DEBUG - 14:32:13 | Trying to find handler for exception superclass [java.lang.Exception]
+DEBUG - 15:39:29 | Found action method [public org.springframework.web.servlet.ModelAndView agtc.sampletracking.web.controller.StsController.projectDetailsHandler(javax.servlet.http.HttpServletRequest,javax.servlet.http.HttpServletResponse) throws javax.servlet.ServletException]
+DEBUG - 15:39:29 | Found action method [public org.springframework.web.servlet.ModelAndView agtc.sampletracking.web.controller.StsController.resultDetailsHandler(javax.servlet.http.HttpServletRequest,javax.servlet.http.HttpServletResponse) throws javax.servlet.ServletException]
+DEBUG - 15:39:29 | Found action method [public org.springframework.web.servlet.ModelAndView agtc.sampletracking.web.controller.StsController.assayDetailsHandler(javax.servlet.http.HttpServletRequest,javax.servlet.http.HttpServletResponse) throws javax.servlet.ServletException]
+DEBUG - 15:39:29 | Found action method [public org.springframework.web.servlet.ModelAndView agtc.sampletracking.web.controller.StsController.reagentDetailsHandler(javax.servlet.http.HttpServletRequest,javax.servlet.http.HttpServletResponse) throws javax.servlet.ServletException]
+DEBUG - 15:39:29 | Found action method [public org.springframework.web.servlet.ModelAndView agtc.sampletracking.web.controller.StsController.runDetailsHandler(javax.servlet.http.HttpServletRequest,javax.servlet.http.HttpServletResponse) throws javax.servlet.ServletException]
+DEBUG - 15:39:29 | Found action method [public org.springframework.web.servlet.ModelAndView agtc.sampletracking.web.controller.StsController.resultListHandler(javax.servlet.http.HttpServletRequest,javax.servlet.http.HttpServletResponse) throws javax.servlet.ServletException]
+DEBUG - 15:39:29 | Found action method [public org.springframework.web.servlet.ModelAndView agtc.sampletracking.web.controller.StsController.testDetailsHandler(javax.servlet.http.HttpServletRequest,javax.servlet.http.HttpServletResponse) throws javax.servlet.ServletException]
+DEBUG - 15:39:29 | Found action method [public org.springframework.web.servlet.ModelAndView agtc.sampletracking.web.controller.StsController.sampleDetailsHandler(javax.servlet.http.HttpServletRequest,javax.servlet.http.HttpServletResponse) throws javax.servlet.ServletException]
+DEBUG - 15:39:29 | Found action method [public org.springframework.web.servlet.ModelAndView agtc.sampletracking.web.controller.StsController.patientDetailsHandler(javax.servlet.http.HttpServletRequest,javax.servlet.http.HttpServletResponse) throws javax.servlet.ServletException]
+DEBUG - 15:39:29 | Found action method [public org.springframework.web.servlet.ModelAndView agtc.sampletracking.web.controller.StsController.sampleIdListHandler(javax.servlet.http.HttpServletRequest,javax.servlet.http.HttpServletResponse) throws javax.servlet.ServletException]
+DEBUG - 15:39:29 | Found action method [public org.springframework.web.servlet.ModelAndView agtc.sampletracking.web.controller.StsController.sampleIdMapHandler(javax.servlet.http.HttpServletRequest,javax.servlet.http.HttpServletResponse) throws javax.servlet.ServletException]
+DEBUG - 15:39:29 | Found action method [public org.springframework.web.servlet.ModelAndView agtc.sampletracking.web.controller.StsController.containerDetailsHandler(javax.servlet.http.HttpServletRequest,javax.servlet.http.HttpServletResponse) throws javax.servlet.ServletException]
+DEBUG - 15:39:29 | Found action method [public org.springframework.web.servlet.ModelAndView agtc.sampletracking.web.controller.StsController.successLoginHandler(javax.servlet.http.HttpServletRequest,javax.servlet.http.HttpServletResponse) throws javax.servlet.ServletException]
+DEBUG - 15:39:29 | Found action method [public org.springframework.web.servlet.ModelAndView agtc.sampletracking.web.controller.StsController.deleteTestHandler(javax.servlet.http.HttpServletRequest,javax.servlet.http.HttpServletResponse) throws javax.servlet.ServletException]
+DEBUG - 15:39:29 | Found action method [public org.springframework.web.servlet.ModelAndView agtc.sampletracking.web.controller.StsController.deleteRunHandler(javax.servlet.http.HttpServletRequest,javax.servlet.http.HttpServletResponse) throws javax.servlet.ServletException]
+DEBUG - 15:39:29 | Found action method [public org.springframework.web.servlet.ModelAndView agtc.sampletracking.web.controller.StsController.deleteAssayHandler(javax.servlet.http.HttpServletRequest,javax.servlet.http.HttpServletResponse) throws javax.servlet.ServletException]
+DEBUG - 15:39:29 | Found action method [public org.springframework.web.servlet.ModelAndView agtc.sampletracking.web.controller.StsController.deleteResultHandler(javax.servlet.http.HttpServletRequest,javax.servlet.http.HttpServletResponse) throws javax.servlet.ServletException]
+DEBUG - 15:39:29 | Found action method [public org.springframework.web.servlet.ModelAndView agtc.sampletracking.web.controller.StsController.deleteReagentHandler(javax.servlet.http.HttpServletRequest,javax.servlet.http.HttpServletResponse) throws javax.servlet.ServletException]
+DEBUG - 15:39:29 | Found action method [public org.springframework.web.servlet.ModelAndView agtc.sampletracking.web.controller.StsController.deleteSampleHandler(javax.servlet.http.HttpServletRequest,javax.servlet.http.HttpServletResponse) throws javax.servlet.ServletException]
+DEBUG - 15:39:29 | Found action method [public org.springframework.web.servlet.ModelAndView agtc.sampletracking.web.controller.StsController.deleteAllSamplesInContainerHandler(javax.servlet.http.HttpServletRequest,javax.servlet.http.HttpServletResponse) throws javax.servlet.ServletException]
+DEBUG - 15:39:29 | Found action method [public org.springframework.web.servlet.ModelAndView agtc.sampletracking.web.controller.StsController.deleteProjectHandler(javax.servlet.http.HttpServletRequest,javax.servlet.http.HttpServletResponse) throws javax.servlet.ServletException]
+DEBUG - 15:39:29 | Found action method [public org.springframework.web.servlet.ModelAndView agtc.sampletracking.web.controller.StsController.deleteContainerHandler(javax.servlet.http.HttpServletRequest,javax.servlet.http.HttpServletResponse) throws javax.servlet.ServletException]
+DEBUG - 15:39:29 | Found action method [public org.springframework.web.servlet.ModelAndView agtc.sampletracking.web.controller.StsController.emptyContainerHandler(javax.servlet.http.HttpServletRequest,javax.servlet.http.HttpServletResponse) throws java.lang.Exception]
+DEBUG - 15:39:29 | Found action method [public org.springframework.web.servlet.ModelAndView agtc.sampletracking.web.controller.StsController.shuffleSamplesInContainerHandler(javax.servlet.http.HttpServletRequest,javax.servlet.http.HttpServletResponse) throws java.lang.Exception]
+DEBUG - 15:39:29 | Found action method [public final org.springframework.web.servlet.ModelAndView org.springframework.web.servlet.mvc.AbstractController.handleRequest(javax.servlet.http.HttpServletRequest,javax.servlet.http.HttpServletResponse) throws java.lang.Exception]
+DEBUG - 15:39:48 | Displaying new form
+DEBUG - 15:39:48 | Creating new command of class [agtc.sampletracking.web.command.LoginFormCommand]
+DEBUG - 15:40:01 | Displaying new form
+DEBUG - 15:40:01 | Setting form session attribute [agtc.sampletracking.web.controller.ContainersSearchController.FORM.command] to: null null null
+DEBUG - 15:40:27 | container ID set to :138
+DEBUG - 15:40:55 | Displaying new form
+DEBUG - 15:40:55 | Setting form session attribute [agtc.sampletracking.web.controller.ContainersSearchController.FORM.command] to: null null null
+DEBUG - 15:41:14 | Displaying new form
+DEBUG - 15:41:14 | Setting form session attribute [agtc.sampletracking.web.controller.ContainersSearchController.FORM.command] to: null null null
+DEBUG - 15:41:37 | Displaying new form
+DEBUG - 15:41:37 | Setting form session attribute [agtc.sampletracking.web.controller.ContainersSearchController.FORM.command] to: null null null
+DEBUG - 15:41:58 | Displaying new form
+DEBUG - 15:41:58 | Setting form session attribute [agtc.sampletracking.web.controller.ContainersSearchController.FORM.command] to: null null null
+DEBUG - 15:42:22 | container ID set to :87
+DEBUG - 15:42:27 | container ID set to :87
+DEBUG - 15:42:55 | Displaying new form
+DEBUG - 15:42:55 | Setting form session attribute [agtc.sampletracking.web.controller.ContainersSearchController.FORM.command] to: null null null
+DEBUG - 15:43:17 | container ID set to :136
+DEBUG - 15:52:28 | Found action method [public org.springframework.web.servlet.ModelAndView agtc.sampletracking.web.controller.StsController.projectDetailsHandler(javax.servlet.http.HttpServletRequest,javax.servlet.http.HttpServletResponse) throws javax.servlet.ServletException]
+DEBUG - 15:52:28 | Found action method [public org.springframework.web.servlet.ModelAndView agtc.sampletracking.web.controller.StsController.resultDetailsHandler(javax.servlet.http.HttpServletRequest,javax.servlet.http.HttpServletResponse) throws javax.servlet.ServletException]
+DEBUG - 15:52:28 | Found action method [public org.springframework.web.servlet.ModelAndView agtc.sampletracking.web.controller.StsController.assayDetailsHandler(javax.servlet.http.HttpServletRequest,javax.servlet.http.HttpServletResponse) throws javax.servlet.ServletException]
+DEBUG - 15:52:28 | Found action method [public org.springframework.web.servlet.ModelAndView agtc.sampletracking.web.controller.StsController.reagentDetailsHandler(javax.servlet.http.HttpServletRequest,javax.servlet.http.HttpServletResponse) throws javax.servlet.ServletException]
+DEBUG - 15:52:28 | Found action method [public org.springframework.web.servlet.ModelAndView agtc.sampletracking.web.controller.StsController.runDetailsHandler(javax.servlet.http.HttpServletRequest,javax.servlet.http.HttpServletResponse) throws javax.servlet.ServletException]
+DEBUG - 15:52:28 | Found action method [public org.springframework.web.servlet.ModelAndView agtc.sampletracking.web.controller.StsController.resultListHandler(javax.servlet.http.HttpServletRequest,javax.servlet.http.HttpServletResponse) throws javax.servlet.ServletException]
+DEBUG - 15:52:28 | Found action method [public org.springframework.web.servlet.ModelAndView agtc.sampletracking.web.controller.StsController.testDetailsHandler(javax.servlet.http.HttpServletRequest,javax.servlet.http.HttpServletResponse) throws javax.servlet.ServletException]
+DEBUG - 15:52:28 | Found action method [public org.springframework.web.servlet.ModelAndView agtc.sampletracking.web.controller.StsController.sampleDetailsHandler(javax.servlet.http.HttpServletRequest,javax.servlet.http.HttpServletResponse) throws javax.servlet.ServletException]
+DEBUG - 15:52:28 | Found action method [public org.springframework.web.servlet.ModelAndView agtc.sampletracking.web.controller.StsController.patientDetailsHandler(javax.servlet.http.HttpServletRequest,javax.servlet.http.HttpServletResponse) throws javax.servlet.ServletException]
+DEBUG - 15:52:28 | Found action method [public org.springframework.web.servlet.ModelAndView agtc.sampletracking.web.controller.StsController.sampleIdListHandler(javax.servlet.http.HttpServletRequest,javax.servlet.http.HttpServletResponse) throws javax.servlet.ServletException]
+DEBUG - 15:52:28 | Found action method [public org.springframework.web.servlet.ModelAndView agtc.sampletracking.web.controller.StsController.sampleIdMapHandler(javax.servlet.http.HttpServletRequest,javax.servlet.http.HttpServletResponse) throws javax.servlet.ServletException]
+DEBUG - 15:52:28 | Found action method [public org.springframework.web.servlet.ModelAndView agtc.sampletracking.web.controller.StsController.containerDetailsHandler(javax.servlet.http.HttpServletRequest,javax.servlet.http.HttpServletResponse) throws javax.servlet.ServletException]
+DEBUG - 15:52:28 | Found action method [public org.springframework.web.servlet.ModelAndView agtc.sampletracking.web.controller.StsController.successLoginHandler(javax.servlet.http.HttpServletRequest,javax.servlet.http.HttpServletResponse) throws javax.servlet.ServletException]
+DEBUG - 15:52:28 | Found action method [public org.springframework.web.servlet.ModelAndView agtc.sampletracking.web.controller.StsController.deleteTestHandler(javax.servlet.http.HttpServletRequest,javax.servlet.http.HttpServletResponse) throws javax.servlet.ServletException]
+DEBUG - 15:52:28 | Found action method [public org.springframework.web.servlet.ModelAndView agtc.sampletracking.web.controller.StsController.deleteRunHandler(javax.servlet.http.HttpServletRequest,javax.servlet.http.HttpServletResponse) throws javax.servlet.ServletException]
+DEBUG - 15:52:28 | Found action method [public org.springframework.web.servlet.ModelAndView agtc.sampletracking.web.controller.StsController.deleteAssayHandler(javax.servlet.http.HttpServletRequest,javax.servlet.http.HttpServletResponse) throws javax.servlet.ServletException]
+DEBUG - 15:52:28 | Found action method [public org.springframework.web.servlet.ModelAndView agtc.sampletracking.web.controller.StsController.deleteResultHandler(javax.servlet.http.HttpServletRequest,javax.servlet.http.HttpServletResponse) throws javax.servlet.ServletException]
+DEBUG - 15:52:28 | Found action method [public org.springframework.web.servlet.ModelAndView agtc.sampletracking.web.controller.StsController.deleteReagentHandler(javax.servlet.http.HttpServletRequest,javax.servlet.http.HttpServletResponse) throws javax.servlet.ServletException]
+DEBUG - 15:52:28 | Found action method [public org.springframework.web.servlet.ModelAndView agtc.sampletracking.web.controller.StsController.deleteSampleHandler(javax.servlet.http.HttpServletRequest,javax.servlet.http.HttpServletResponse) throws javax.servlet.ServletException]
+DEBUG - 15:52:28 | Found action method [public org.springframework.web.servlet.ModelAndView agtc.sampletracking.web.controller.StsController.deleteAllSamplesInContainerHandler(javax.servlet.http.HttpServletRequest,javax.servlet.http.HttpServletResponse) throws javax.servlet.ServletException]
+DEBUG - 15:52:28 | Found action method [public org.springframework.web.servlet.ModelAndView agtc.sampletracking.web.controller.StsController.deleteProjectHandler(javax.servlet.http.HttpServletRequest,javax.servlet.http.HttpServletResponse) throws javax.servlet.ServletException]
+DEBUG - 15:52:28 | Found action method [public org.springframework.web.servlet.ModelAndView agtc.sampletracking.web.controller.StsController.deleteContainerHandler(javax.servlet.http.HttpServletRequest,javax.servlet.http.HttpServletResponse) throws javax.servlet.ServletException]
+DEBUG - 15:52:28 | Found action method [public org.springframework.web.servlet.ModelAndView agtc.sampletracking.web.controller.StsController.emptyContainerHandler(javax.servlet.http.HttpServletRequest,javax.servlet.http.HttpServletResponse) throws java.lang.Exception]
+DEBUG - 15:52:28 | Found action method [public org.springframework.web.servlet.ModelAndView agtc.sampletracking.web.controller.StsController.shuffleSamplesInContainerHandler(javax.servlet.http.HttpServletRequest,javax.servlet.http.HttpServletResponse) throws java.lang.Exception]
+DEBUG - 15:52:28 | Found action method [public final org.springframework.web.servlet.ModelAndView org.springframework.web.servlet.mvc.AbstractController.handleRequest(javax.servlet.http.HttpServletRequest,javax.servlet.http.HttpServletResponse) throws java.lang.Exception]
+DEBUG - 15:53:20 | Displaying new form
+DEBUG - 15:53:20 | Setting form session attribute [agtc.sampletracking.web.controller.ContainersSearchController.FORM.command] to: null null null
+DEBUG - 15:53:49 | container ID set to :134

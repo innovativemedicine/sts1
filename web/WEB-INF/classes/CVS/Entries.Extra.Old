@@ -1,0 +1,3 @@
+/junit.util.excluded.properties////*///
+/log4j.xml////*///
+/messages.properties////*///

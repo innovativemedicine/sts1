@@ -1,0 +1,156 @@
+DEBUG - 15:56:57 | Found action method [public org.springframework.web.servlet.ModelAndView agtc.sampletracking.web.controller.StsController.projectDetailsHandler(javax.servlet.http.HttpServletRequest,javax.servlet.http.HttpServletResponse) throws javax.servlet.ServletException]
+DEBUG - 15:56:57 | Found action method [public org.springframework.web.servlet.ModelAndView agtc.sampletracking.web.controller.StsController.resultDetailsHandler(javax.servlet.http.HttpServletRequest,javax.servlet.http.HttpServletResponse) throws javax.servlet.ServletException]
+DEBUG - 15:56:57 | Found action method [public org.springframework.web.servlet.ModelAndView agtc.sampletracking.web.controller.StsController.assayDetailsHandler(javax.servlet.http.HttpServletRequest,javax.servlet.http.HttpServletResponse) throws javax.servlet.ServletException]
+DEBUG - 15:56:57 | Found action method [public org.springframework.web.servlet.ModelAndView agtc.sampletracking.web.controller.StsController.reagentDetailsHandler(javax.servlet.http.HttpServletRequest,javax.servlet.http.HttpServletResponse) throws javax.servlet.ServletException]
+DEBUG - 15:56:57 | Found action method [public org.springframework.web.servlet.ModelAndView agtc.sampletracking.web.controller.StsController.runDetailsHandler(javax.servlet.http.HttpServletRequest,javax.servlet.http.HttpServletResponse) throws javax.servlet.ServletException]
+DEBUG - 15:56:57 | Found action method [public org.springframework.web.servlet.ModelAndView agtc.sampletracking.web.controller.StsController.resultListHandler(javax.servlet.http.HttpServletRequest,javax.servlet.http.HttpServletResponse) throws javax.servlet.ServletException]
+DEBUG - 15:56:57 | Found action method [public org.springframework.web.servlet.ModelAndView agtc.sampletracking.web.controller.StsController.testDetailsHandler(javax.servlet.http.HttpServletRequest,javax.servlet.http.HttpServletResponse) throws javax.servlet.ServletException]
+DEBUG - 15:56:57 | Found action method [public org.springframework.web.servlet.ModelAndView agtc.sampletracking.web.controller.StsController.sampleDetailsHandler(javax.servlet.http.HttpServletRequest,javax.servlet.http.HttpServletResponse) throws javax.servlet.ServletException]
+DEBUG - 15:56:57 | Found action method [public org.springframework.web.servlet.ModelAndView agtc.sampletracking.web.controller.StsController.patientDetailsHandler(javax.servlet.http.HttpServletRequest,javax.servlet.http.HttpServletResponse) throws javax.servlet.ServletException]
+DEBUG - 15:56:57 | Found action method [public org.springframework.web.servlet.ModelAndView agtc.sampletracking.web.controller.StsController.sampleIdListHandler(javax.servlet.http.HttpServletRequest,javax.servlet.http.HttpServletResponse) throws javax.servlet.ServletException]
+DEBUG - 15:56:57 | Found action method [public org.springframework.web.servlet.ModelAndView agtc.sampletracking.web.controller.StsController.sampleIdMapHandler(javax.servlet.http.HttpServletRequest,javax.servlet.http.HttpServletResponse) throws javax.servlet.ServletException]
+DEBUG - 15:56:57 | Found action method [public org.springframework.web.servlet.ModelAndView agtc.sampletracking.web.controller.StsController.containerDetailsHandler(javax.servlet.http.HttpServletRequest,javax.servlet.http.HttpServletResponse) throws javax.servlet.ServletException]
+DEBUG - 15:56:57 | Found action method [public org.springframework.web.servlet.ModelAndView agtc.sampletracking.web.controller.StsController.successLoginHandler(javax.servlet.http.HttpServletRequest,javax.servlet.http.HttpServletResponse) throws javax.servlet.ServletException]
+DEBUG - 15:56:57 | Found action method [public org.springframework.web.servlet.ModelAndView agtc.sampletracking.web.controller.StsController.deleteTestHandler(javax.servlet.http.HttpServletRequest,javax.servlet.http.HttpServletResponse) throws javax.servlet.ServletException]
+DEBUG - 15:56:57 | Found action method [public org.springframework.web.servlet.ModelAndView agtc.sampletracking.web.controller.StsController.deleteRunHandler(javax.servlet.http.HttpServletRequest,javax.servlet.http.HttpServletResponse) throws javax.servlet.ServletException]
+DEBUG - 15:56:57 | Found action method [public org.springframework.web.servlet.ModelAndView agtc.sampletracking.web.controller.StsController.deleteAssayHandler(javax.servlet.http.HttpServletRequest,javax.servlet.http.HttpServletResponse) throws javax.servlet.ServletException]
+DEBUG - 15:56:57 | Found action method [public org.springframework.web.servlet.ModelAndView agtc.sampletracking.web.controller.StsController.deleteResultHandler(javax.servlet.http.HttpServletRequest,javax.servlet.http.HttpServletResponse) throws javax.servlet.ServletException]
+DEBUG - 15:56:57 | Found action method [public org.springframework.web.servlet.ModelAndView agtc.sampletracking.web.controller.StsController.deleteReagentHandler(javax.servlet.http.HttpServletRequest,javax.servlet.http.HttpServletResponse) throws javax.servlet.ServletException]
+DEBUG - 15:56:57 | Found action method [public org.springframework.web.servlet.ModelAndView agtc.sampletracking.web.controller.StsController.deleteSampleHandler(javax.servlet.http.HttpServletRequest,javax.servlet.http.HttpServletResponse) throws javax.servlet.ServletException]
+DEBUG - 15:56:57 | Found action method [public org.springframework.web.servlet.ModelAndView agtc.sampletracking.web.controller.StsController.deleteAllSamplesInContainerHandler(javax.servlet.http.HttpServletRequest,javax.servlet.http.HttpServletResponse) throws javax.servlet.ServletException]
+DEBUG - 15:56:57 | Found action method [public org.springframework.web.servlet.ModelAndView agtc.sampletracking.web.controller.StsController.deleteProjectHandler(javax.servlet.http.HttpServletRequest,javax.servlet.http.HttpServletResponse) throws javax.servlet.ServletException]
+DEBUG - 15:56:57 | Found action method [public org.springframework.web.servlet.ModelAndView agtc.sampletracking.web.controller.StsController.deleteContainerHandler(javax.servlet.http.HttpServletRequest,javax.servlet.http.HttpServletResponse) throws javax.servlet.ServletException]
+DEBUG - 15:56:57 | Found action method [public org.springframework.web.servlet.ModelAndView agtc.sampletracking.web.controller.StsController.emptyContainerHandler(javax.servlet.http.HttpServletRequest,javax.servlet.http.HttpServletResponse) throws java.lang.Exception]
+DEBUG - 15:56:57 | Found action method [public org.springframework.web.servlet.ModelAndView agtc.sampletracking.web.controller.StsController.shuffleSamplesInContainerHandler(javax.servlet.http.HttpServletRequest,javax.servlet.http.HttpServletResponse) throws java.lang.Exception]
+DEBUG - 15:56:57 | Found action method [public final org.springframework.web.servlet.ModelAndView org.springframework.web.servlet.mvc.AbstractController.handleRequest(javax.servlet.http.HttpServletRequest,javax.servlet.http.HttpServletResponse) throws java.lang.Exception]
+DEBUG - 15:57:22 | Displaying new form
+DEBUG - 15:57:22 | Creating new command of class [agtc.sampletracking.web.command.LoginFormCommand]
+DEBUG - 15:57:26 | Displaying new form
+DEBUG - 15:57:26 | Setting form session attribute [agtc.sampletracking.web.controller.ContainersSearchController.FORM.command] to: null null null
+DEBUG - 15:57:56 | container ID set to :131
+DEBUG - 15:59:25 | Displaying new form
+DEBUG - 15:59:25 | Setting form session attribute [agtc.sampletracking.web.controller.ContainersSearchController.FORM.command] to: null null null
+DEBUG - 15:59:38 | Displaying new form
+DEBUG - 15:59:38 | Setting form session attribute [agtc.sampletracking.web.controller.ContainersSearchController.FORM.command] to: null null null
+DEBUG - 15:59:46 | Displaying new form
+DEBUG - 15:59:46 | Setting form session attribute [agtc.sampletracking.web.controller.ContainersSearchController.FORM.command] to: null null null
+DEBUG - 15:59:57 | Displaying new form
+DEBUG - 15:59:57 | Setting form session attribute [agtc.sampletracking.web.controller.ContainersSearchController.FORM.command] to: null null null
+DEBUG - 16:00:14 | Displaying new form
+DEBUG - 16:00:14 | Binding to new form
+DEBUG - 16:00:14 | Setting form session attribute [agtc.sampletracking.web.controller.DeleteSampleFromContainerController.FORM.command] to: agtc.sampletracking.model.SamplesInContainer@129b073
+DEBUG - 16:00:20 | Removing form session attribute [agtc.sampletracking.web.controller.DeleteSampleFromContainerController.FORM.command]
+DEBUG - 16:00:20 | No errors -> processing submit
+DEBUG - 16:00:20 | Displaying new form
+DEBUG - 16:00:21 | make container test dupno  false
+DEBUG - 16:00:21 | Binding to new form
+DEBUG - 16:00:21 | Setting form session attribute [agtc.sampletracking.web.controller.ContainerContentsController.FORM.command] to: agtc.sampletracking.web.command.ContainerContentCommand@374ed5
+DEBUG - 16:00:41 | Displaying new form
+DEBUG - 16:00:41 | Setting form session attribute [agtc.sampletracking.web.controller.ContainersSearchController.FORM.command] to: null null null
+DEBUG - 16:00:56 | container ID set to :154
+DEBUG - 16:02:58 | Displaying new form
+DEBUG - 16:02:58 | Setting form session attribute [agtc.sampletracking.web.controller.ContainersSearchController.FORM.command] to: null null null
+DEBUG - 16:03:22 | Displaying new form
+DEBUG - 16:03:22 | Binding to new form
+DEBUG - 16:03:22 | Setting form session attribute [agtc.sampletracking.web.controller.DeleteSampleFromContainerController.FORM.command] to: agtc.sampletracking.model.SamplesInContainer@a17378
+DEBUG - 16:03:27 | Removing form session attribute [agtc.sampletracking.web.controller.DeleteSampleFromContainerController.FORM.command]
+DEBUG - 16:03:27 | No errors -> processing submit
+DEBUG - 16:03:28 | Displaying new form
+DEBUG - 16:03:28 | (IBD) CD Patient Plate 1  false
+DEBUG - 16:03:28 | Binding to new form
+DEBUG - 16:03:28 | Setting form session attribute [agtc.sampletracking.web.controller.ContainerContentsController.FORM.command] to: agtc.sampletracking.web.command.ContainerContentCommand@1c9313b
+DEBUG - 16:03:35 | Displaying new form
+DEBUG - 16:03:35 | Setting form session attribute [agtc.sampletracking.web.controller.SamplesSearchController.FORM.command] to: null null null
+DEBUG - 16:03:35 | referenceData is called
+DEBUG - 16:03:44 | Removing form session attribute [agtc.sampletracking.web.controller.SamplesSearchController.FORM.command]
+DEBUG - 16:03:44 | No errors -> processing submit
+DEBUG - 16:03:44 | search item is JS1158
+DEBUG - 16:03:44 |  the criteria is CriteriaImpl(agtc.sampletracking.model.Sample:this[][patient.intSampleId ilike %JS1158%])
+DEBUG - 16:03:44 | search result  no is 1
+DEBUG - 16:03:56 | Displaying new form
+DEBUG - 16:03:56 | Setting form session attribute [agtc.sampletracking.web.controller.ContainersSearchController.FORM.command] to: null null null
+DEBUG - 16:04:09 | container ID set to :47
+DEBUG - 16:04:20 | Displaying new form
+DEBUG - 16:04:20 | Setting form session attribute [agtc.sampletracking.web.controller.SamplesSearchController.FORM.command] to: null null null
+DEBUG - 16:04:20 | referenceData is called
+DEBUG - 16:04:29 | Removing form session attribute [agtc.sampletracking.web.controller.SamplesSearchController.FORM.command]
+DEBUG - 16:04:29 | No errors -> processing submit
+DEBUG - 16:04:29 | search item is JS1158
+DEBUG - 16:04:29 |  the criteria is CriteriaImpl(agtc.sampletracking.model.Sample:this[][patient.intSampleId ilike %JS1158%])
+DEBUG - 16:04:29 | search result  no is 1
+DEBUG - 16:04:39 | Displaying new form
+DEBUG - 16:04:39 | Binding to new form
+DEBUG - 16:04:39 | Setting form session attribute [agtc.sampletracking.web.controller.MakePlateController.FORM.command] to: agtc.sampletracking.model.Container@145ee7f
+DEBUG - 16:04:39 | referenceData is called
+DEBUG - 16:04:43 | Displaying new form
+DEBUG - 16:04:43 | Setting form session attribute [agtc.sampletracking.web.controller.ContainersSearchController.FORM.command] to: null null null
+DEBUG - 16:05:05 | Displaying new form
+DEBUG - 16:05:05 | make container plate 3  false
+DEBUG - 16:05:05 | Binding to new form
+DEBUG - 16:05:05 | Setting form session attribute [agtc.sampletracking.web.controller.ContainerContentsController.FORM.command] to: agtc.sampletracking.web.command.ContainerContentCommand@19b2dc6
+DEBUG - 16:05:24 | Removing form session attribute [agtc.sampletracking.web.controller.ContainerContentsController.FORM.command]
+DEBUG - 16:05:24 | No errors -> processing submit
+DEBUG - 16:05:24 | intSampleId is JS1158 sampleTypeSuffix is DO
+DEBUG - 16:05:24 | got one sample agtc.sampletracking.model.Sample@f1735
+DEBUG - 16:05:24 | intSampleId is JS1158 sampleTypeSuffix is DO
+DEBUG - 16:05:24 | got one sample agtc.sampletracking.model.Sample@f1735
+DEBUG - 16:05:24 | have saved one samplesInContainer!
+DEBUG - 16:05:24 | have saved one samplesInContainer!
+DEBUG - 16:05:24 | Displaying new form
+DEBUG - 16:05:25 | make container plate 3  false
+DEBUG - 16:05:25 | Binding to new form
+DEBUG - 16:05:25 | Setting form session attribute [agtc.sampletracking.web.controller.ContainerContentsController.FORM.command] to: agtc.sampletracking.web.command.ContainerContentCommand@104ca54
+DEBUG - 16:05:47 | Displaying new form
+DEBUG - 16:05:47 | Setting form session attribute [agtc.sampletracking.web.controller.ContainersSearchController.FORM.command] to: null null null
+DEBUG - 16:06:12 | Displaying new form
+DEBUG - 16:06:12 | make container test  false
+DEBUG - 16:06:12 | Binding to new form
+DEBUG - 16:06:12 | Setting form session attribute [agtc.sampletracking.web.controller.ContainerContentsController.FORM.command] to: agtc.sampletracking.web.command.ContainerContentCommand@1246f44
+DEBUG - 16:06:35 | Removing form session attribute [agtc.sampletracking.web.controller.ContainerContentsController.FORM.command]
+DEBUG - 16:06:35 | No errors -> processing submit
+DEBUG - 16:06:36 | intSampleId is JS1158 sampleTypeSuffix is DO
+DEBUG - 16:06:36 | got one sample agtc.sampletracking.model.Sample@1142653
+DEBUG - 16:06:36 | intSampleId is JS1158 sampleTypeSuffix is DO
+DEBUG - 16:06:36 | got one sample agtc.sampletracking.model.Sample@1142653
+DEBUG - 16:06:36 | have saved one samplesInContainer!
+DEBUG - 16:06:36 | have saved one samplesInContainer!
+DEBUG - 16:06:36 | Displaying new form
+DEBUG - 16:06:36 | make container test  false
+DEBUG - 16:06:36 | Binding to new form
+DEBUG - 16:06:36 | Setting form session attribute [agtc.sampletracking.web.controller.ContainerContentsController.FORM.command] to: agtc.sampletracking.web.command.ContainerContentCommand@131444
+DEBUG - 16:06:48 | Displaying new form
+DEBUG - 16:06:48 | Setting form session attribute [agtc.sampletracking.web.controller.SamplesSearchController.FORM.command] to: null null null
+DEBUG - 16:06:48 | referenceData is called
+DEBUG - 16:06:57 | Removing form session attribute [agtc.sampletracking.web.controller.SamplesSearchController.FORM.command]
+DEBUG - 16:06:57 | No errors -> processing submit
+DEBUG - 16:06:57 | search item is JS1158
+DEBUG - 16:06:57 |  the criteria is CriteriaImpl(agtc.sampletracking.model.Sample:this[][patient.intSampleId ilike %JS1158%])
+DEBUG - 16:06:57 | search result  no is 1
+DEBUG - 16:07:16 | Displaying new form
+DEBUG - 16:07:16 | Binding to new form
+DEBUG - 16:07:16 | Setting form session attribute [agtc.sampletracking.web.controller.DeleteSampleFromContainerController.FORM.command] to: agtc.sampletracking.model.SamplesInContainer@1c9c556
+DEBUG - 16:07:19 | Removing form session attribute [agtc.sampletracking.web.controller.DeleteSampleFromContainerController.FORM.command]
+DEBUG - 16:07:19 | No errors -> processing submit
+DEBUG - 16:07:19 | Displaying new form
+DEBUG - 16:07:19 | make container test  false
+DEBUG - 16:07:19 | Binding to new form
+DEBUG - 16:07:19 | Setting form session attribute [agtc.sampletracking.web.controller.ContainerContentsController.FORM.command] to: agtc.sampletracking.web.command.ContainerContentCommand@1e0cbd8
+DEBUG - 16:07:42 | Displaying new form
+DEBUG - 16:07:42 | Setting form session attribute [agtc.sampletracking.web.controller.SamplesSearchController.FORM.command] to: null null null
+DEBUG - 16:07:42 | referenceData is called
+DEBUG - 16:07:52 | Removing form session attribute [agtc.sampletracking.web.controller.SamplesSearchController.FORM.command]
+DEBUG - 16:07:52 | No errors -> processing submit
+DEBUG - 16:07:52 | search item is JS1158
+DEBUG - 16:07:52 |  the criteria is CriteriaImpl(agtc.sampletracking.model.Sample:this[][patient.intSampleId ilike %JS1158%])
+DEBUG - 16:07:52 | search result  no is 1
+DEBUG - 16:08:13 | container ID set to :125
+DEBUG - 16:08:39 | Displaying new form
+DEBUG - 16:08:39 | Setting form session attribute [agtc.sampletracking.web.controller.SamplesSearchController.FORM.command] to: null null null
+DEBUG - 16:08:39 | referenceData is called
+DEBUG - 16:08:48 | Removing form session attribute [agtc.sampletracking.web.controller.SamplesSearchController.FORM.command]
+DEBUG - 16:08:48 | No errors -> processing submit
+DEBUG - 16:08:48 | search item is JS1158
+DEBUG - 16:08:48 |  the criteria is CriteriaImpl(agtc.sampletracking.model.Sample:this[][patient.intSampleId ilike %JS1158%])
+DEBUG - 16:08:48 | search result  no is 1
+DEBUG - 16:09:03 | Displaying new form
+DEBUG - 16:09:03 | Setting form session attribute [agtc.sampletracking.web.controller.ContainersSearchController.FORM.command] to: null null null

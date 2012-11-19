@@ -1,0 +1,16 @@
+intSampleId	externalId	Note 
+TCC600	1	just test 
+TCC601	2	just test 
+TCC602	3	just test 
+TCC603	4	just test 
+TCC604	5	just test 
+TCC605	6	just test 
+TCC606	7	just test 
+TCC607	8	just test 
+TCC608	9	just test 
+TCC609	10	just test 
+TCC610	11	just test 
+TCC611	12	just test 
+TCC612	13	just test 
+TCC613	14	just test 
+TCC614	15	just test 

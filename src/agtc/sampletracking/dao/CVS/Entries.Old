@@ -1,0 +1,24 @@
+D/hibernate////
+D/jdbc////
+/AssayDAO.java/0/dummy timestamp//
+/CGGResultDAO.java/0/dummy timestamp//
+/CGGStudyGroupDAO.java/0/dummy timestamp//
+/ContainerDAO.java/0/dummy timestamp//
+/ContainerTypeDAO.java/0/dummy timestamp//
+/InstrumentDAO.java/0/dummy timestamp//
+/InvestigatorDAO.java/0/dummy timestamp//
+/LocationDAO.java/0/dummy timestamp//
+/OtherDAO.java/0/dummy timestamp//
+/PatientDAO.java/0/dummy timestamp//
+/ProjectDAO.java/0/dummy timestamp//
+/ReagentDAO.java/0/dummy timestamp//
+/ResultDAO.java/0/dummy timestamp//
+/RunDAO.java/0/dummy timestamp//
+/SampleDAO.java/0/dummy timestamp//
+/SamplePrefixDAO.java/0/dummy timestamp//
+/SamplesInContainerDAO.java/0/dummy timestamp//
+/SampleTypeDAO.java/0/dummy timestamp//
+/TestDAO.java/0/dummy timestamp//
+/UpdateResultToCGGDAO.java/0/dummy timestamp//
+/UserDAO.java/0/dummy timestamp//
+/UserRoleDAO.java/0/dummy timestamp//

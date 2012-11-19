@@ -1,0 +1,40 @@
+CUSTOMER	PROJECT	PLATE	EXPERIMENT	CHIP	WELL_POSITION	ASSAY_ID	GENOTYPE_ID	DESCRIPTION	SAMPLE_ID	ENTRY_OPERATOR
+Bill Newman	PTPN22	PBC-2	1	1	G01	PTPN22_rs2476601		N.No-Alleles	1376	Automatic
+Bill Newman	PTPN22	PBC-2	1	1	G02	PTPN22_rs2476601	G	A.Conservative	1377	Automatic
+Bill Newman	PTPN22	PBC-2	1	1	G03	PTPN22_rs2476601	G	A.Conservative	1378	Automatic
+Bill Newman	PTPN22	PBC-2	1	1	G04	PTPN22_rs2476601	G	A.Conservative	1379	Automatic
+Bill Newman	PTPN22	PBC-2	1	1	G05	PTPN22_rs2476601	AG	A.Conservative	1380	Automatic
+Bill Newman	PTPN22	PBC-2	1	1	G06	PTPN22_rs2476601	G	A.Conservative	1381	Automatic
+Bill Newman	PTPN22	PBC-2	1	1	G07	PTPN22_rs2476601	G	A.Conservative	1382	Automatic
+Bill Newman	PTPN22	PBC-2	1	1	G08	PTPN22_rs2476601	G	E.User Call	1383	charles
+Bill Newman	PTPN22	PBC-2	1	1	G09	PTPN22_rs2476601	G	A.Conservative	1384	Automatic
+Bill Newman	PTPN22	PBC-2	1	1	G10	PTPN22_rs2476601	G	A.Conservative	1385	Automatic
+Bill Newman	PTPN22	PBC-2	1	1	G11	PTPN22_rs2476601	G	A.Conservative	1386	Automatic
+Bill Newman	PTPN22	PBC-2	1	1	G12	PTPN22_rs2476601	G	A.Conservative	1387	Automatic
+Bill Newman	PTPN22	PBC-2	1	1	G13	PTPN22_rs2476601	G	A.Conservative	1388	Automatic
+Bill Newman	PTPN22	PBC-2	1	1	G14	PTPN22_rs2476601	G	E.User Call	1389	charles
+Bill Newman	PTPN22	PBC-2	1	1	G15	PTPN22_rs2476601	G	A.Conservative	1390	Automatic
+Bill Newman	PTPN22	PBC-2	1	1	G16	PTPN22_rs2476601	G	A.Conservative	1391	Automatic
+Bill Newman	PTPN22	PBC-2	1	1	G17	PTPN22_rs2476601	AG	A.Conservative	1392	Automatic
+Bill Newman	PTPN22	PBC-2	1	1	G18	PTPN22_rs2476601	G	A.Conservative	1393	Automatic
+Bill Newman	PTPN22	PBC-2	1	1	G19	PTPN22_rs2476601	G	A.Conservative	1394	Automatic
+Bill Newman	PTPN22	PBC-2	1	1	G20	PTPN22_rs2476601	G	A.Conservative	1395	Automatic
+Bill Newman	PTPN22	PBC-2	1	1	G21	PTPN22_rs2476601	AG	A.Conservative	1396	Automatic
+Bill Newman	PTPN22	PBC-2	1	1	G22	PTPN22_rs2476601	AG	A.Conservative	1397	Automatic
+Bill Newman	PTPN22	PBC-2	1	1	G23	PTPN22_rs2476601	G	A.Conservative	1398	Automatic
+Bill Newman	PTPN22	PBC-2	1	1	G24	PTPN22_rs2476601	G	A.Conservative	1399	Automatic
+Bill Newman	PTPN22	PBC-2	1	1	H01	PTPN22_rs2476601	G	A.Conservative	1400	Automatic
+Bill Newman	PTPN22	PBC-2	1	1	H02	PTPN22_rs2476601	G	A.Conservative	1401	Automatic
+Bill Newman	PTPN22	PBC-2	1	1	H03	PTPN22_rs2476601	G	A.Conservative	1402	Automatic
+Bill Newman	PTPN22	PBC-2	1	1	H04	PTPN22_rs2476601	G	A.Conservative	1403	Automatic
+Bill Newman	PTPN22	PBC-2	1	1	H05	PTPN22_rs2476601	G	A.Conservative	1404	Automatic
+Bill Newman	PTPN22	PBC-2	1	1	H06	PTPN22_rs2476601	G	A.Conservative	1405	Automatic
+Bill Newman	PTPN22	PBC-2	1	1	H07	PTPN22_rs2476601	G	A.Conservative	1406	Automatic
+Bill Newman	PTPN22	PBC-2	1	1	H08	PTPN22_rs2476601		N.No-Alleles	1407	Automatic
+Bill Newman	PTPN22	PBC-2	1	1	H09	PTPN22_rs2476601		N.No-Alleles	1408	Automatic
+Bill Newman	PTPN22	PBC-2	1	1	H10	PTPN22_rs2476601		N.No-Alleles	1409	Automatic
+Bill Newman	PTPN22	PBC-2	1	1	H11	PTPN22_rs2476601		I.Bad Spectrum	1410	Automatic
+Bill Newman	PTPN22	PBC-2	1	1	H12	PTPN22_rs2476601		N.No-Alleles	1411	Automatic
+Bill Newman	PTPN22	PBC-2	1	1	H13	PTPN22_rs2476601		N.No-Alleles	1412	Automatic
+Bill Newman	PTPN22	PBC-2	1	1	H14	PTPN22_rs2476601	G	A.Conservative	1413	Automatic
+Bill Newman	PTPN22	PBC-2	1	1	H15	PTPN22_rs2476601		N.No-Alleles	1414	Automatic

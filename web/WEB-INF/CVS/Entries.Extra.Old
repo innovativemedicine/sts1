@@ -1,0 +1,11 @@
+D/classes///////
+D/jsp///////
+D/lib///////
+D/un-used///////
+/applicationContext.xml////*///
+/spring.tld////*///
+/stsApp-servlet.xml////*///
+/urlrewrite.xml////*///
+/validation.xml////*///
+/validator-rules.xml////*///
+/web.xml////*///

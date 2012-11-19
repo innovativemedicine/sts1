@@ -1,0 +1,30 @@
+DEBUG - 15:52:01 | Convert string '30' to class 'int'
+DEBUG - 15:52:01 |   Using converter org.apache.commons.beanutils.converters.IntegerConverter@1ac5f13
+DEBUG - 15:52:02 | Convert string '20' to class 'int'
+DEBUG - 15:52:02 |   Using converter org.apache.commons.beanutils.converters.IntegerConverter@1ac5f13
+DEBUG - 15:52:02 | Registering Catalina:type=Manager,path=/SampleTracking,host=localhost
+DEBUG - 15:52:02 | Force random number initialization starting
+DEBUG - 15:52:02 | Getting message digest component for algorithm MD5
+DEBUG - 15:52:02 | Completed getting message digest component
+DEBUG - 15:52:02 | getDigest() 70
+DEBUG - 15:52:02 | Force random number initialization completed
+DEBUG - 15:52:02 | Start: Loading persisted sessions
+DEBUG - 15:52:02 | Loading persisted sessions from SESSIONS.ser
+DEBUG - 15:52:02 | Creating custom object input stream for class loader 
+DEBUG - 15:52:02 | Loading 1 persisted sessions
+DEBUG - 15:52:02 | Finish: Loading persisted sessions
+DEBUG - 15:53:21 | servletPath=/WEB-INF/jsp/containers.jsp, pathInfo=null, queryString=null, name=null
+DEBUG - 15:53:21 |  Path Based Forward
+DEBUG - 15:53:24 |  Disabling the response for futher output
+DEBUG - 15:53:40 | servletPath=/WEB-INF/jsp/containerDetails.jsp, pathInfo=null, queryString=null, name=null
+DEBUG - 15:53:40 |  Path Based Forward
+DEBUG - 15:53:41 |  Disabling the response for futher output
+DEBUG - 15:53:49 | servletPath=/WEB-INF/jsp/containerDetails.jsp, pathInfo=null, queryString=null, name=null
+DEBUG - 15:53:49 |  Path Based Forward
+DEBUG - 15:53:49 |  Disabling the response for futher output
+DEBUG - 15:55:18 | Stopping
+DEBUG - 15:55:18 | Unloading persisted sessions
+DEBUG - 15:55:18 | Saving persisted sessions to SESSIONS.ser
+DEBUG - 15:55:18 | Unloading 1 sessions
+DEBUG - 15:55:18 | Expiring 1 persisted sessions
+DEBUG - 15:55:18 | Unloading complete

@@ -1,0 +1,20 @@
+/Assay.hbm.xml/1.1/Tue Aug 16 19:41:21 2005//
+/Container.hbm.xml/1.1/Tue Aug 16 19:41:21 2005//
+/ContainerType.hbm.xml/1.1/Tue Aug 16 19:41:21 2005//
+/Instrument.hbm.xml/1.1/Tue Aug 16 19:41:21 2005//
+/Investigator.hbm.xml/1.1/Tue Aug 16 19:41:21 2005//
+/Location.hbm.xml/1.1/Tue Aug 16 19:41:21 2005//
+/Patient.hbm.xml/1.1/Tue Aug 16 19:41:21 2005//
+/Project.hbm.xml/1.1/Tue Aug 16 19:41:21 2005//
+/Reagent.hbm.xml/1.1/Tue Aug 16 19:41:21 2005//
+/Result.hbm.xml/1.1/Tue Aug 16 19:41:21 2005//
+/Roles.hbm.xml/0/dummy timestamp/-kk/
+/Run.hbm.xml/1.1/Tue Aug 16 19:41:21 2005//
+/Sample.hbm.xml/1.1/Tue Aug 16 19:41:21 2005//
+/SamplePrefix.hbm.xml/1.1/Tue Aug 16 19:41:21 2005//
+/SampleType.hbm.xml/1.1/Tue Aug 16 19:41:22 2005//
+/SamplesInContainer.hbm.xml/1.1/Tue Aug 16 19:41:21 2005//
+/Test.hbm.xml/1.1/Tue Aug 16 19:41:22 2005//
+/User.hbm.xml/1.1/Tue Aug 16 19:41:22 2005//
+/UserRole.hbm.xml/-1.1/Tue Aug 16 19:41:22 2005//
+/UserRoles.hbm.xml/0/dummy timestamp/-kk/
